@@ -69,7 +69,7 @@ var client = new Client(ONENAME_APP_ID, ONENAME_APP_SECRET)
 			console.log(error)
 		else
 			console.log(response);
-});
+	});
 
 ###Get names owned
 	client.getNamesOwned("N8PcBQnL4oMuM6aLsQow6iG59yks1AtQX4", function(error, response){
