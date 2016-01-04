@@ -1,7 +1,7 @@
 # onename-node
 Unofficial Node.js library for Onename API.
 
-When I wrote this library, there was no official version of Onename library for Node.js. However, Currently, there is an offical library here: https://github.com/onenameio/onename-node.js. Please compare both to see which one suits your needs.
+When I wrote this library, there was no official version of Onename library for Node.js. However, Currently, there is an offical library here: https://github.com/onenameio/onename-node.js. The official version may be more updated. Please compare both to see which one suits your needs.
 
 ##Documentation
 
